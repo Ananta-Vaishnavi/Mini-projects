@@ -21,4 +21,4 @@ def check_guess():
         print('Better luck next time')
 pl_guess()
 check_guess()
-print('cups')
+print(cups)
